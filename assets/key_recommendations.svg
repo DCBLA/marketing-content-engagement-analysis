@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="320" viewBox="0 0 1100 320" role="img" aria-labelledby="title desc">
+  <title id="title">Key recommendations</title>
+  <desc id="desc">Three business recommendations from the marketing analytics case study.</desc>
+  <rect width="1100" height="320" fill="#ffffff"/>
+  <style>
+    .card { fill: #f8fafc; stroke: #c8d0dc; stroke-width: 1.5; rx: 8; }
+    .accent1 { fill: #1f77b4; }
+    .accent2 { fill: #2ca02c; }
+    .accent3 { fill: #d95f02; }
+    .heading { font: 700 22px Arial, sans-serif; fill: #172033; }
+    .body { font: 16px Arial, sans-serif; fill: #38465a; }
+    .metric { font: 700 28px Arial, sans-serif; fill: #172033; }
+  </style>
+  <rect class="card" x="40" y="45" width="315" height="230"/>
+  <rect class="accent1" x="40" y="45" width="315" height="10"/>
+  <text class="heading" x="70" y="95">Weekend Scheduling</text>
+  <text class="metric" x="70" y="140">+27%</text>
+  <text class="body" x="70" y="175">Saturday and Sunday articles</text>
+  <text class="body" x="70" y="198">were associated with higher</text>
+  <text class="body" x="70" y="221">shares than Monday.</text>
+  <rect class="card" x="392" y="45" width="315" height="230"/>
+  <rect class="accent2" x="392" y="45" width="315" height="10"/>
+  <text class="heading" x="422" y="95">Visual Standards</text>
+  <text class="metric" x="422" y="140">Images + video</text>
+  <text class="body" x="422" y="175">Media-rich articles showed</text>
+  <text class="body" x="422" y="198">positive, significant associations</text>
+  <text class="body" x="422" y="221">with engagement.</text>
+  <rect class="card" x="744" y="45" width="315" height="230"/>
+  <rect class="accent3" x="744" y="45" width="315" height="10"/>
+  <text class="heading" x="774" y="95">Headline Testing</text>
+  <text class="metric" x="774" y="140">A/B test</text>
+  <text class="body" x="774" y="175">More emotional or subjective</text>
+  <text class="body" x="774" y="198">headlines should be trialled</text>
+  <text class="body" x="774" y="221">against neutral alternatives.</text>
+</svg>
