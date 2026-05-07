@@ -1,0 +1,19 @@
+# Raw data is excluded because the original dataset was supplied for coursework.
+data/raw/*
+!data/raw/.gitkeep
+
+# R session files
+.RData
+.RDataTmp
+.Rhistory
+.Rproj.user/
+
+# Generated local outputs
+*.html
+*.pdf
+*.docx
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
