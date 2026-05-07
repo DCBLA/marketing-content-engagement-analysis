@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260" role="img" aria-labelledby="title desc">
+  <title id="title">Analytics workflow</title>
+  <desc id="desc">Workflow from data audit through feature engineering, modelling, interpretation, and recommendations.</desc>
+  <rect width="1100" height="260" fill="#f7f8fb"/>
+  <style>
+    .box { fill: #ffffff; stroke: #c8d0dc; stroke-width: 1.5; rx: 8; }
+    .title { font: 700 18px Arial, sans-serif; fill: #152033; }
+    .text { font: 14px Arial, sans-serif; fill: #344155; }
+    .arrow { stroke: #53667e; stroke-width: 2; marker-end: url(#arrow); }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#53667e"/>
+    </marker>
+  </defs>
+  <rect class="box" x="30" y="70" width="145" height="105"/>
+  <text class="title" x="52" y="108">Data Audit</text>
+  <text class="text" x="52" y="135">Quality checks</text>
+  <text class="text" x="52" y="157">Leakage removal</text>
+  <line class="arrow" x1="185" y1="122" x2="225" y2="122"/>
+  <rect class="box" x="235" y="70" width="145" height="105"/>
+  <text class="title" x="257" y="108">EDA</text>
+  <text class="text" x="257" y="135">Target skew</text>
+  <text class="text" x="257" y="157">Genre and timing</text>
+  <line class="arrow" x1="390" y1="122" x2="430" y2="122"/>
+  <rect class="box" x="440" y="70" width="145" height="105"/>
+  <text class="title" x="462" y="108">Features</text>
+  <text class="text" x="462" y="135">Log transforms</text>
+  <text class="text" x="462" y="157">PCA sentiment</text>
+  <line class="arrow" x1="595" y1="122" x2="635" y2="122"/>
+  <rect class="box" x="645" y="70" width="145" height="105"/>
+  <text class="title" x="667" y="108">Models</text>
+  <text class="text" x="667" y="135">LASSO and OLS</text>
+  <text class="text" x="667" y="157">Pruned tree</text>
+  <line class="arrow" x1="800" y1="122" x2="840" y2="122"/>
+  <rect class="box" x="850" y="70" width="220" height="105"/>
+  <text class="title" x="872" y="108">Recommendations</text>
+  <text class="text" x="872" y="135">Weekend pilots</text>
+  <text class="text" x="872" y="157">Visual standards</text>
+</svg>
