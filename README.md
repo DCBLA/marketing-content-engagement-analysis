@@ -128,4 +128,4 @@ The findings are observational associations, not causal effects. The recommendat
 
 ## Academic Note
 
-This project was adapted from MSc Business Analytics coursework and rewritten as a professional portfolio case study. University submission material, marking templates, student identifiers, assignment briefs, and raw coursework documents have been excluded from this public-facing version.
+This project was adapted from Distinction-grade MSc Business Analytics coursework, originally awarded 78%, and rewritten as a professional portfolio case study. University submission material, marking templates, student identifiers, assignment briefs, and raw coursework documents have been excluded from this public-facing version.
